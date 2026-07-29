@@ -1,4 +1,4 @@
-# Automação Check List
+# Sistema de Checklist Industrial
 
 ## Objetivo
 
